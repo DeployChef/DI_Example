@@ -11,7 +11,7 @@
 
 ## 📺 Пример в видео
 
-[![Видео на канале]([https://youtu.be/@DevChefGames](https://www.youtube.com/@DevChefGames))
+![Видео на канале](https://www.youtube.com/@DevChefGames)
 
 > *Полный разбор на канале — ссылка в описании*
 
